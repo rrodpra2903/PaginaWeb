@@ -1,0 +1,16 @@
+# Todos los contenidos de la carpeta ‘privado/’
+
+# Aquí estoy poniendo que git me tiene que ignorar todos los contenidos de la carpeta privado:
+
+privado/
+
+# Los ficheros db.sql y passwords.txt
+
+db.sql 
+passwords.txt
+
+# Todos los ficheros con extensión .zip, .rar y .7z
+
+*.zip
+*.rar
+*.7z
